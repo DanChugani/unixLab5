@@ -1,0 +1,4 @@
+ls -l
+echo Hello World!
+pwd
+echo The End, Kill yourself
